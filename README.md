@@ -66,7 +66,7 @@ models/      (not committed) saved checkpoints
 
 ## Reproduce
 
-1. Download NCC-2 from the official source: _ADD DATASET LINK_. Place it as
+1. Download NCC-2 from the official source: https://data.mendeley.com/datasets/8dpt85jrhp/2 . Place it as
    `data/raw/sensor{1,2,3}/sensor{1,2,3}.binetflow`.
 2. `pip install -r requirements.txt`
 3. Run notebooks 01 to 11 in order from inside `notebooks/`.
