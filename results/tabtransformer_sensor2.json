@@ -1,0 +1,20 @@
+{
+  "model": "TabTransformer",
+  "sensor": "sensor2",
+  "accuracy": 0.989886853687814,
+  "precision_botnet": 0.9351580880243301,
+  "recall_botnet": 0.8954395604395604,
+  "f1_botnet": 0.9148679372386112,
+  "f1_macro": 0.9547460268695644,
+  "f1_weighted": 0.9897840691661248,
+  "confusion_matrix": [
+    [
+      841730,
+      3390
+    ],
+    [
+      5709,
+      48891
+    ]
+  ]
+}

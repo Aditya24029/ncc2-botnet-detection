@@ -1,0 +1,20 @@
+{
+  "model": "FT-Transformer",
+  "sensor": "sensor2",
+  "accuracy": 0.9924120837593918,
+  "precision_botnet": 0.9495266951465081,
+  "recall_botnet": 0.9240842490842491,
+  "f1_botnet": 0.9366327259901427,
+  "f1_macro": 0.966298573820494,
+  "f1_weighted": 0.9923638452681103,
+  "confusion_matrix": [
+    [
+      842438,
+      2682
+    ],
+    [
+      4145,
+      50455
+    ]
+  ]
+}

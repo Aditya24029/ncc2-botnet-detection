@@ -1,0 +1,11 @@
+{
+  "model": "SAINT",
+  "sensor": "sensor3",
+  "accuracy": 0.9292,
+  "precision_botnet": 0.5176,
+  "recall_botnet": 0.95,
+  "f1_botnet": 0.6701,
+  "f1_macro": 0.8152,
+  "f1_weighted": 0.9384,
+  "confusion_matrix": null
+}
