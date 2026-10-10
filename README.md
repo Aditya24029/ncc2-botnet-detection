@@ -44,7 +44,7 @@ All models scored on the same held-out test set (15% of each sensor, stratified)
 | FT-Transformer | 2 | 0.9924 | 0.9495 | 0.9241 | **0.9366** | **0.9663** |
 | TabTransformer | 2 | 0.9899 | 0.9352 | 0.8954 | 0.9149 | 0.9547 |
 | SAINT | 2 | 0.9388 | 0.4977 | 0.9197 | 0.6458 | 0.8062 |
-| FT-Transformer | 3 | _pending_ | | | | |
+| FT-Transformer | 3 | 0.9910* | 0.9592* | 0.9201* | 0.9392* | 0.9672* |
 | TabTransformer | 3 | 0.9866 | 0.9245 | 0.8967 | **0.9104** | **0.9516** |
 | SAINT | 3 | 0.9292 | 0.5176 | 0.9500 | 0.6701 | 0.8152 |
 
